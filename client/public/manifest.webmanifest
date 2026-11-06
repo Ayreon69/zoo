@@ -1,0 +1,11 @@
+{
+  "name": "Zoo",
+  "short_name": "Zoo",
+  "description": "Des enchères secrètes où le lot le moins cher l'emporte, et des cubes animaux qui tombent sur un plateau de 5 × 5.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#b9e4d4",
+  "theme_color": "#b9e4d4",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
