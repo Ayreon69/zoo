@@ -2,7 +2,7 @@
 
 **Cache ta suite de trois animaux, fais-la tomber sur le plateau, et retiens qui dépense quoi : au guichet, c'est le lot le moins cher qui part.**
 
-👉 **Jouer : https://zoo.onrender.com** (la première ouverture peut prendre jusqu'à une minute, le temps que le serveur gratuit se réveille)
+👉 **Jouer : https://zoo-j9qr.onrender.com** (la première ouverture peut prendre jusqu'à une minute, le temps que le serveur gratuit se réveille)
 
 Jeu d'enchères secrètes multijoueur, à jouer entre amis depuis un navigateur, sur téléphone ou ordinateur, sans compte ni installation.
 D'après *Zoo*, l'épreuve du 4e jour de *The Devil's Plan* (saison 1, Netflix). Création de fans, non officielle, avec ses propres visuels.
